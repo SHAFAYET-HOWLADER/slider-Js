@@ -1,0 +1,13 @@
+body {
+    background-color: #f1efef;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.slider_area img {
+    width: 100%;
+}
+#container{
+   max-width:1200px;
+   margin: 0px auto;
+}
